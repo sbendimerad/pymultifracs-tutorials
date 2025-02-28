@@ -1,5 +1,4 @@
 # Pymultifracs Tutorials
-**Tutorials on Multifractal Analysis Using `pymultifracs`**
 
 This repository contains a collection of tutorials using the `pymultifracs` library. 
 
