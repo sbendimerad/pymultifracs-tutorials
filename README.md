@@ -1,7 +1,7 @@
 # Pymultifracs Tutorials
 **Tutorials on Multifractal Analysis Using `pymultifracs`**
 
-This repository contains a structured collection of tutorials demonstrating **multifractal analysis (MFA)**, **outlier detection**, and **bivariate analysis** using the `pymultifracs` library. These tutorials focus on practical implementations with a rigorous scientific approach.
+This repository contains a collection of tutorials demonstrating **multifractal analysis (MFA)**, **outlier detection**, and **bivariate analysis** using the `pymultifracs` library. These tutorials focus on practical implementations with a rigorous scientific approach.
 
 ## 📂 **Tutorials Overview**
 |   Tutorial | Description |
