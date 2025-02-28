@@ -14,6 +14,6 @@ This repository contains a collection of tutorials using the `pymultifracs` libr
 
 Ensure the following libraries are installed before running the notebooks:
 ```bash
-pip install pymultifracs numpy scipy matplotlib pandas seaborn jupyter
+pip install numpy scipy matplotlib pandas seaborn jupyter
 pip install git+https://github.com/neurospin/pymultifracs
 ```
